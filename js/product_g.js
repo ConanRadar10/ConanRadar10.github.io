@@ -121,7 +121,7 @@ console.log(a);
 }    
 
 function Buy(namaProduk, descProduk, hargaProduk) {
-    var noHp = "+6285721013636";
+    var noHp = "+6285156953268";
     window.open(`https://wa.me/${noHp}?&text=Product%20Name:%20${namaProduk}%0ADesc Product:%20${descProduk}%0APrice:%20${hargaProduk}%0A%0AThanks%20BRO!`);
 }
 
