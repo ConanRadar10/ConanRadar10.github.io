@@ -1,0 +1,54 @@
+/*
+Author       : Andi Ary Anggara ( Triple A )
+Template Name: Basic Mini Shop - Bootstrap 5 HTML
+Version      : 1.0 Course Journey 1 #DeaCourse
+*/
+
+
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #fff !important;
+}
+
+[data-theme="dark"] .bg-dark {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #222 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+[data-theme="dark"] { background-color: #111 !important; color: #fff; }
+
+[data-theme="dark"] a { color: #fff; }
+[data-theme="dark"] a:hover { color: #eee; }
+
+[data-theme="dark"] .text-dark { color: #fff !important; }
+
+[data-theme="dark"] .card { background-color: #111; border: 1px solid rgba(255, 255, 255, 0.125); }
+
+[data-theme="dark"] .navbar-brand { color: #fff; };
+[data-theme="dark"] .navbar-item { color: #fff; };
+[data-theme="dark"] .navbar-link { color: #fff; };
+
+[data-theme="dark"] .container {
+  background-color: #000 !important;
+}
+[data-theme="dark"] .dropdown-menu { color: #dee2e6; background-color: #343a40; border-color: rgba(0, 0, 0, 0.15); }
+[data-theme="dark"] .dropdown-menu .dropdown-item { color: #dee2e6; }
+[data-theme="dark"] .dropdown-menu .dropdown-item:hover,
+[data-theme="dark"] .dropdown-menu .dropdown-item:focus { color: #fff; background-color: rgba(255, 255, 255, 0.15); }
+[data-theme="dark"] .dropdown-menu .dropdown-item.active,
+[data-theme="dark"] .dropdown-menu .dropdown-item:active { color: #fff; background-color: #0d6efd; }
+[data-theme="dark"] .dropdown-menu .dropdown-item.disabled,
+[data-theme="dark"] .dropdown-menu .dropdown-item:disabled { color: #adb5bd; }
+[data-theme="dark"] .dropdown-menu .dropdown-divider { border-color: rgba(0, 0, 0, 0.15); }
+[data-theme="dark"] .dropdown-menu .dropdown-item-text { color: #dee2e6; }
+[data-theme="dark"] .dropdown-menu .dropdown-header { color: #adb5bd; }
